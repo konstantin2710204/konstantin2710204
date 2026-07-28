@@ -59,13 +59,13 @@ Previously, I worked on **AWS-based infrastructure, CI/CD pipelines, containeriz
 
 ### 💼 Experience Highlights
 
-**DevOps Engineer @ MTS Web Services** · *Feb 2026 – Present*
+**DevOps Engineer @ MTS Web Services** · *Jun 2025 – Present*
 - Automated routine OpenStack operations, cutting request turnaround time by **40%**
 - Redesigned 10+ Grafana dashboards, adding key infrastructure and business metrics
 - Built an onboarding program that got new engineers to full independence **25% faster**
 - Led initiative to optimize instance distribution across physical hosts
 
-**DevOps Engineer @ Bridg** · *Apr 2024 – Jan 2026*
+**DevOps Engineer @ Bridg** · *Oct 2023 – Jun 2025*
 - Cut deployment time from **1 hour to 15 minutes**
 - Key contributor to successful **SOC2/SOX** audits (automated security checks, access controls, data encryption)
 - Reduced monthly cloud costs by **20%+** via migration to serverless, auto-scaling architecture — boosting availability to **99.99%**

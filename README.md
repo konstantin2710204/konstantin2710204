@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Konstantin Nikolaev 👋</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure & Automation | 2.5+ years</h3>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure & Automation | 3+ years</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/konstantin-nikolaev-b4467a259/">
